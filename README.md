@@ -1,6 +1,6 @@
 # Word Definer
-This project is made by Anish Govind. Other projects can be found at my [GitHub][github].
-Huge thank you to the contributors of this [api][https://github.com/meetDeveloper/googleDictionaryAPI] because it handles the dictionary required for this script
+This project is made by Anish Govind. Other projects can be found at my [GitHub](https://github.com/anishg24).
+Huge thank you to the contributors of this [api](https://github.com/meetDeveloper/googleDictionaryAPI) because it handles the dictionary required for this script
 
 ![GitHub followers](https://img.shields.io/github/followers/anishg24?label=Follow&style=social)
 
