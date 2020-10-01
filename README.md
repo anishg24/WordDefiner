@@ -49,7 +49,7 @@ Note: Larger input files means you'll have to wait longer for the definitions.
 - 1.0.0 (10/1/2020): First working release.
 
 ## Contributors
-Creator: [Anish Govind][github]
+Creator: [Anish Govind](https://github.com/anishg24)
 
 Ways to contact:
 * [E-Mail](anishg24@gmail.com)
